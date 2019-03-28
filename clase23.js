@@ -15,6 +15,3 @@ persona.prototype.soyalto = function () {
 var sacha = new persona('sacha', 'lifszyc', 1.72)
 var berlin = new persona('b erlin', 'moz', 1.65)
 var rio = new persona('rio', 'gaz', 1.89)
-
-
-
